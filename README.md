@@ -58,6 +58,8 @@ This system is designed to enhance customer service through efficient query reso
 
 ## Deployment Guide: Langflow with DataStax Integration
 
+You can check Langflow execution steps here ![Steps](LANGFLOW_EXECUTION.md)
+
 ### Overview of `app.py`
 - A Streamlit-based web interface connecting to Langflow via DataStax.
 
