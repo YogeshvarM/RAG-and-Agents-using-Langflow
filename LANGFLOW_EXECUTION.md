@@ -29,6 +29,7 @@ Simplified steps to upload, configure, and interact with your Langflow JSON on t
 ---
 
 ## Step 3: Visualize the Langflow Graph
+![Workflow Architecture](Langflow.png)
 1. Go to the **Graph View** section after uploading the flow.
 2. Visualize the Langflow configuration:
    - **Nodes**: Represent agents and components.
