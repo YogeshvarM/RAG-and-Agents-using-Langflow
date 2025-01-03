@@ -7,8 +7,7 @@ A sophisticated AI-powered customer service system that combines RAG (Retrieval 
 ## System Overview
 
 This system is designed to enhance customer service through efficient query resolution and seamless integration of multiple subsystems. It consists of three main components:
-![Customer Service AI Architecture](Overview_Architecture.png")
-
+![Workflow Architecture](Overview_Architecture.png)
 ### 1. FAQ Knowledge Base
 - **Purpose**: Answers general customer queries.
 - **Features**:
