@@ -29,7 +29,7 @@ This system is designed to enhance customer service through efficient query reso
 ---
 
 ## Architecture
-
+![Workflow Architecture](Langflow.png)
 ### Document Processing Pipeline
 1. Input files are split into manageable chunks.
 2. Text chunks are embedded and stored in a vector database (Astra DB).
@@ -88,7 +88,7 @@ import os
 load_dotenv()
 
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "10e7b18a-333b-434c-8ad5-aecb61d2817e"
-FLOW_ID = "9c5dfd71-adf9-4a6c-96ab-5b8f98b9571f"
+LANGFLOW_ID = "YOUR_LANGFLOW_ID"
+FLOW_ID = "YOUR_FLOW_ID"
 APPLICATION_TOKEN = os.environ.get("APPLICATION_TOKEN")
-ENDPOINT = "Customer"
+ENDPOINT = "YOUR_ENDPOINT"
