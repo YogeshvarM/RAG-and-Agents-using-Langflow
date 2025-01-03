@@ -12,7 +12,7 @@ This system is designed to enhance customer service through efficient query reso
 ---
 
 ## Architecture
-![Workflow Architecture](Langflow.png)
+
 ### Document Processing Pipeline
 1. Input files are split into manageable chunks.
 2. Text chunks are embedded and stored in a vector database (Astra DB).
