@@ -8,23 +8,6 @@ A sophisticated AI-powered customer service system that combines RAG (Retrieval 
 
 This system is designed to enhance customer service through efficient query resolution and seamless integration of multiple subsystems. It consists of three main components:
 ![Workflow Architecture](Overview_Architecture.png)
-### 1. FAQ Knowledge Base
-- **Purpose**: Answers general customer queries.
-- **Features**:
-  - Processes and indexes FAQ documents for quick retrieval.
-  - Employs vector storage for semantic search capabilities.
-
-### 2. Order Management System
-- **Purpose**: Handles order-related inquiries.
-- **Features**:
-  - Direct access to the order database.
-  - Ability to look up order details and link orders with product information.
-
-### 3. Manager Agent
-- **Purpose**: Orchestrates between specialized agents.
-- **Features**:
-  - Routes queries to appropriate subsystems.
-  - Provides unified responses to users.
 
 ---
 
